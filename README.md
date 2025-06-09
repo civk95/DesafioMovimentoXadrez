@@ -1,2 +1,2 @@
 # DesafioMovimentoXadrez
-Dos desafios foram realizados o nível Novato e Aventureiro.
+Dos desafios foram realizados o nível Novato e Aventureiro
